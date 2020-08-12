@@ -248,7 +248,7 @@ ZipHelper.unzipit(<sourcefilepath>, <targetfilepath>);
 
 #### 2.6 PDFHelper
 
-- return the PDF document for the input PFG file path
+- return the PDF document for the input PDF file path
 
 ```
 PDDocument pdfDoc = PDFHelper.getDoc(String path) {
