@@ -105,7 +105,7 @@ class Persons {
 ```
 Using the example scenario
 ```
-Scenario: Submitting multiple people to survay requests
+Scenario: Submitting multiple people to survey requests
 	Given the application "foo"
 	When submitting peoples information
 		| Name          | Dob        | Gender  | Email                           |
