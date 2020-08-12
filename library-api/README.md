@@ -350,7 +350,7 @@ Using the same example as above:
 Then the response body contains
 |title			|Steve Jobs	|
 |pageCount		|630		|
-|rating			|4.0		|
+|averageRating		|4.0		|
 ```
 
 The supporting json would be structured as:
